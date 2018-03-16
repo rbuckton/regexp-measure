@@ -1,0 +1,6 @@
+.ignore
+.vscode
+src
+dist/__test__
+coverage
+tsconfig.json
